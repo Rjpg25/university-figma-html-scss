@@ -1,0 +1,74 @@
+[
+  {
+    "filename": "campus-hero.jpg",
+    "dimensions": [
+      612,
+      408
+    ],
+    "source_hash": "5bd9992b2c50feae7bb1aab972fbac661e147248"
+  },
+  {
+    "filename": "search-background.png",
+    "dimensions": [
+      1920,
+      1280
+    ],
+    "source_hash": "87850363149d4436424aa495da631e9a850e1e5a"
+  },
+  {
+    "filename": "university-stanford.jpg",
+    "dimensions": [
+      509,
+      339
+    ],
+    "source_hash": "d62c79223d030c0188f161c2dc23b2aa7044e66d"
+  },
+  {
+    "filename": "university-stallion.jpg",
+    "dimensions": [
+      556,
+      311
+    ],
+    "source_hash": "c9590785ba325e0359f812eb06889a0cefb964c1"
+  },
+  {
+    "filename": "university-covenant.jpg",
+    "dimensions": [
+      509,
+      339
+    ],
+    "source_hash": "b47ca90fa56e10225fab3239df20c873ba5a8319"
+  },
+  {
+    "filename": "course-ux.jpg",
+    "dimensions": [
+      509,
+      339
+    ],
+    "source_hash": "a4129bf584a5cddbb2033c62aa682980c448078a"
+  },
+  {
+    "filename": "course-computer-science.jpg",
+    "dimensions": [
+      508,
+      339
+    ],
+    "source_hash": "1b31667e6c75a980b6ec4bd226de1b7e44dece6c"
+  },
+  {
+    "filename": "course-business.jpg",
+    "dimensions": [
+      509,
+      339
+    ],
+    "source_hash": "9de364ecc7773de9378b1cbb5c02cb8903559ec2"
+  },
+  {
+    "filename": "help.jpg",
+    "dimensions": [
+      612,
+      408
+    ],
+    "source_hash": "eec9ed91130c6f2eeaec99cf9d64dcd766fb3b91"
+  }
+]
